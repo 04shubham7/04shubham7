@@ -1,6 +1,6 @@
 <h1> Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" height="40" width="40">, I'm <span style="color: #007bff;">SHUBHAM KUMAR</span></h1>
 <div>
-  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=Competitive-Programmer.......;Full-Stack-Developer.......;Ui/Ux+Developer.......&color=grey"/>
+  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=Competitive-Programmer.......;Full-Stack-Developer.......;AI/ML+Enthusiast.......&color=grey"/>
 </div>
 
 I'm SHUBHAM KUMAR a Competitive programmer,machine learning enthusiast and an aspiring full stack web developer. I Spend most of the time solving programming problems.</p>
@@ -112,11 +112,11 @@ I'm SHUBHAM KUMAR a Competitive programmer,machine learning enthusiast and an as
 
 # 📊 Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bluemincoder&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=bluemincoder&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=bluemincoder&theme=great-gatsby&hide_border=false)
-![](https://leetcard.jacoblin.cool/bluemincoder?theme=dark&font=Kaisei%20HarunoUmi&ext=contest)
-![](https://codeforces-readme-stats.vercel.app/api/card?username=bluemincoder&theme=aura&disable_animations=false&show_icons=true&force_username=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=04shubham7&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=04shubham7&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=04shubham7&theme=great-gatsby&hide_border=false)
+![](https://leetcard.jacoblin.cool/shubham040711?theme=dark&font=Kaisei%20HarunoUmi&ext=contest)
+![](https://codeforces-readme-stats.vercel.app/api/card?username=shubham040711&theme=aura&disable_animations=false&show_icons=true&force_username=true)
 
 
 ###
