@@ -8,7 +8,7 @@ I'm SHUBHAM KUMAR a Competitive programmer,machine learning enthusiast and an as
 
 # 💫 About Me:
 
-🔭 I’m currently Third Year Student at, Indian Institute of Information Technology, Bhagalpur.<br>👯 I’m looking to collaborate on Competitive Programming and Full stack web development.<br>🌱 I’m currently learning Machine Learning.<br>💬 Ask me about anything related to Dev and CP.
+🔭 I’m currently Third Year Student at, Indian Institute of Information Technology, Bhagalpur.<br>👯 I’m looking to collaborate on Competitive Programming and Full stack web development.<br>🌱 I’m currently learning DevOps.<br>💬 Ask me about anything related to Dev and CP.
 
 
 <br/>
