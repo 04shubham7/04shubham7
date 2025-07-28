@@ -68,22 +68,19 @@
 ## 👀 Profile Viewer Count
 
 <p align="center">
-  <!-- Enhanced main viewer counter (Komarev, with custom color, badge style, and emoji) -->
+  <!-- Enhanced Komarev badge with emoji, correct URL encoding -->
   <img src="https://komarev.com/ghpvc/?username=04shubham7&label=👁️%20Profile%20Views&color=43E0FF&style=for-the-badge" alt="Profile Views"/>
-
-  <!-- Animated, themed visitor counter (getloli, with moebooru theme for fun avatars) -->
-  <br>
+  <br><br>
+  <!-- Animated loli counter (fun avatars, live) -->
   <img src="https://count.getloli.com/get/@04shubham7?theme=moebooru" alt="Dynamic Visitor Counter"/>
-
-  <!-- Followers badge (shows your GitHub followers as a social badge) -->
-  <br>
+  <br><br>
+  <!-- Followers badge, centered -->
   <a href="https://github.com/04shubham7?tab=followers">
     <img src="https://img.shields.io/github/followers/04shubham7?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
-
-  <!-- Animated typing banner for extra flair -->
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=43E0FF&width=435&lines=Thanks+for+visiting+my+profile!"/>
+  <br><br>
+  <!-- Animated typing SVG, centered and spaced -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=43E0FF&width=435&lines=Thanks+for+visiting+my+profile!" alt="Thanks for visiting!"/>
 </p>
 ## 📊 GitHub Stats
 
