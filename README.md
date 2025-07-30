@@ -1,7 +1,7 @@
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30" width="30">, I'm <span style="color: #007bff;">SHUBHAM KUMAR</span>!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Competitive+Programmer;Full-Stack+Developer;AI/ML+Enthusiast;Always+curious...&color=007bff&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Competitive+Programmer;Full-Stack+Developer;DevOps+Enthusiast;Always+curious...&color=007bff&size=22" />
 </p>
 
 <p align="center">
