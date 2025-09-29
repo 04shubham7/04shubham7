@@ -13,7 +13,7 @@
 ## 💫 About Me
 
 - 🎓 Third Year Student at Indian Institute of Information Technology, Bhagalpur
-- 👨‍💻 Competitive Programmer | Full Stack Web Developer | ML Enthusiast
+- 👨‍💻 Competitive Programmer | Full Stack Web Developer | Gen AI Enthusiast
 - 🌱 Currently exploring new tech and sharpening my skills by solving programming problems daily
 - 🤝 Open to collaboration on Competitive Programming and Full Stack Web Projects
 
