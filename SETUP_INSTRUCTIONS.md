@@ -1,11 +1,12 @@
 # GitHub Metrics Setup Instructions
 
-Your profile has been updated to match PerHac13's clean and professional style! 
+Your profile has been updated with a comprehensive and attractive metrics display! 
 
 ## What's Changed
 
-1. **README.md**: Simplified to display a single comprehensive metrics SVG image
-2. **GitHub Actions Workflow**: Added `.github/workflows/main.yml` to automatically generate metrics
+1. **README.md**: Enhanced with attractive header, profile badges, and organized sections
+2. **GitHub Actions Workflow**: Updated `.github/workflows/main.yml` to automatically generate detailed metrics daily
+3. **Enhanced Metrics**: Added multiple plugins for achievements, code activity, discussions, gists, and projects
 
 ## Required Setup
 
@@ -24,6 +25,7 @@ To make the metrics work, you need to create a GitHub Personal Access Token:
    - `repo` (Full control of private repositories)
    - `read:user` (Read user profile data)
    - `read:org` (Read org and team membership)
+   - `read:project` (Read access to projects - required for projects plugin)
 
 5. Click "Generate token" at the bottom
 
@@ -42,20 +44,28 @@ To make the metrics work, you need to create a GitHub Personal Access Token:
 ## Triggering the Workflow
 
 The metrics will be generated automatically:
-- Weekly (every Sunday at midnight)
+- **Daily** (every day at midnight UTC) - ensures your data is always up to date!
 - On every push to main/master branch
 - Manually via Actions tab → Metrics workflow → Run workflow
 
 After the first run, the `github-metrics.svg` file will be created and displayed in your README!
 
+## Features Included
+
+The enhanced configuration now includes:
+- **Achievements**: Displays ALL achievements (threshold set to X which means all achievement levels, with no limit on count)
+- **Activity and Contribution**: Extended to 30 days with more items
+- **Programming Languages**: Shows up to 12 languages with 30-day analysis
+- **Habits and Coding Patterns**: 30-day analysis from 500 commits
+- **Code Activity**: Recent code snippets (3 days)
+- **Starred Repositories**: Your top starred repos
+- **Discussions**: GitHub Discussions activity
+- **Gists**: Your public gists
+- **Projects**: Active projects with descriptions
+- **And many more plugins!**
+
 ## Customization
 
-You can customize the metrics by editing `.github/workflows/main.yml`. The current configuration includes:
-- Activity and contribution history
-- Programming languages
-- Achievements
-- Repositories information
-- Habits and coding patterns
-- And many more plugins!
+You can customize the metrics by editing `.github/workflows/main.yml`. 
 
 Visit https://github.com/lowlighter/metrics for full documentation on available plugins and options.
