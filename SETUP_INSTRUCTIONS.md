@@ -25,7 +25,7 @@ To make the metrics work, you need to create a GitHub Personal Access Token:
    - `repo` (Full control of private repositories)
    - `read:user` (Read user profile data)
    - `read:org` (Read org and team membership)
-   - `read:project` (Read access to projects)
+   - `read:project` (Read access to projects - required for projects plugin)
 
 5. Click "Generate token" at the bottom
 
@@ -53,7 +53,7 @@ After the first run, the `github-metrics.svg` file will be created and displayed
 ## Features Included
 
 The enhanced configuration now includes:
-- **Achievements**: Displays ALL achievements (threshold set to X, no limit)
+- **Achievements**: Displays ALL achievements (threshold set to X which means all achievement levels, with no limit on count)
 - **Activity and Contribution**: Extended to 30 days with more items
 - **Programming Languages**: Shows up to 12 languages with 30-day analysis
 - **Habits and Coding Patterns**: 30-day analysis from 500 commits
