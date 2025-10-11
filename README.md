@@ -26,7 +26,7 @@
 ## 🏆 Achievements
 
 [![An image of @04shubham7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/04shubham7)](https://holopin.io/@04shubham7)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=04shubham7&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ## 🤝 Connect with me
