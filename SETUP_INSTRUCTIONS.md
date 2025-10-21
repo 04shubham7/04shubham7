@@ -1,12 +1,22 @@
 # GitHub Metrics Setup Instructions
 
-Your profile has been updated with a comprehensive and attractive metrics display! 
+Your profile has been updated with a comprehensive and attractive display! 
 
 ## What's Changed
 
-1. **README.md**: Enhanced with attractive header, profile badges, and organized sections
-2. **GitHub Actions Workflow**: Updated `.github/workflows/main.yml` to automatically generate detailed metrics daily
-3. **Enhanced Metrics**: Added multiple plugins for achievements, code activity, discussions, gists, and projects
+1. **README.md**: Completely revamped with:
+   - Enhanced "About Me" section
+   - Comprehensive Tech Stack with badges
+   - GitHub Stats cards (statistics, streak, top languages)
+   - Improved achievements and trophies section
+   - Better organized sections with modern styling
+   
+2. **GitHub Actions Workflow**: Fixed `.github/workflows/main.yml` to:
+   - Remove plugins causing "Unexpected error" messages
+   - Keep only working and reliable plugins
+   - Ensure daily automatic updates at midnight UTC
+   
+3. **Fixed Issues**: Removed problematic plugins (projects, habits, activity duplicates, achievements) that were showing errors
 
 ## Required Setup
 
@@ -24,8 +34,8 @@ To make the metrics work, you need to create a GitHub Personal Access Token:
 4. Select the following scopes:
    - `repo` (Full control of private repositories)
    - `read:user` (Read user profile data)
-   - `read:org` (Read org and team membership)
-   - `read:project` (Read access to projects - required for projects plugin)
+   - `read:org` (Read org and team membership, team discussions)
+   - `read:discussion` (Read team discussions)
 
 5. Click "Generate token" at the bottom
 
@@ -52,17 +62,26 @@ After the first run, the `github-metrics.svg` file will be created and displayed
 
 ## Features Included
 
-The enhanced configuration now includes:
-- **Achievements**: Displays ALL achievements (threshold set to X which means all achievement levels, with no limit on count)
-- **Activity and Contribution**: Extended to 30 days with more items
-- **Programming Languages**: Shows up to 12 languages with 30-day analysis
-- **Habits and Coding Patterns**: 30-day analysis from 500 commits
-- **Code Activity**: Recent code snippets (3 days)
-- **Starred Repositories**: Your top starred repos
-- **Discussions**: GitHub Discussions activity
+The current working configuration includes:
+- **Base Metrics**: Header, isocalendar, activity, community stats, repositories, metadata
+- **Programming Languages**: Shows up to 12 languages with 30-day analysis and detailed breakdown
+- **Calendar**: Contribution calendar (isocalendar and regular calendar)
+- **Code Activity**: Recent code snippets from last 3 days
+- **Starred Repositories**: Your top 4 starred repos
+- **Topics**: Top 15 topics you work with
+- **Traffic**: Repository traffic statistics
+- **Discussions**: GitHub Discussions activity with categories
 - **Gists**: Your public gists
-- **Projects**: Active projects with descriptions
-- **And many more plugins!**
+- **Followup**: Follow-up on issues and PRs in repositories
+- **Notable Contributions**: Notable commits and contributions from organizations
+- **Lines of Code**: Code additions and deletions statistics
+
+### Disabled Plugins (Were Causing Errors)
+The following plugins have been disabled to remove "Unexpected error" messages:
+- ~~**Achievements**~~ - Causing API errors
+- ~~**Projects**~~ - Causing permissions errors
+- ~~**Habits**~~ - Causing data collection errors  
+- ~~**Activity plugin**~~ - Conflicting with base activity
 
 ## Customization
 
