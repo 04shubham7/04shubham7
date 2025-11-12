@@ -116,7 +116,7 @@ I'm a dedicated software developer with a passion for building innovative soluti
   <a href="https://github.com/04shubham7">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/04shubham7">
+  <a href="https://linkedin.com/in/04shubham07">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/04shubham7">
