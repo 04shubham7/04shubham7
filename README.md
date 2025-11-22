@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham+Kumar;Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 </h1>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Solutions+That+Matter;Passionate+About+Clean+Code;Always+Learning+%7C+Always+Growing" alt="Typing SVG" />
 </p>
@@ -232,7 +231,7 @@ Coming soon! Check my repositories for exciting projects in:
 <a href="https://twitter.com/04shubham7">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
-<a href="mailto:shubham@example.com">
+<a href="mailto:shubham040711@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://dev.to/04shubham7">
