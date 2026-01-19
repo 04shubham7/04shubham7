@@ -64,32 +64,6 @@ I'm a **dedicated software developer** with a passion for building innovative so
 
 ---
 
-## 📈 GitHub Stats & Activity
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=04shubham7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=04shubham7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=04shubham7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=04shubham7&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=04shubham7&theme=tokyonight" alt="Profile Summary" />
-</div>
-
----
-
-## 🏆 GitHub Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=04shubham7&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-</div>
 
 ### 🎖️ Holopin Badges
 
@@ -98,14 +72,6 @@ I'm a **dedicated software developer** with a passion for building innovative so
     <img src="https://holopin.me/04shubham7" alt="Holopin badges" />
   </a>
 </div>
-
-### 📊 Contribution Stats
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=04shubham7&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</div>
-
----
 
 ## 💻 Tech Stack & Skills
 
@@ -195,21 +161,6 @@ I'm a **dedicated software developer** with a passion for building innovative so
 - 🤝 **Contributing:** Active participant in open-source communities
 - 🎓 **Learning:** Advanced system design and distributed systems
 
-### 💼 Open Source Contributions
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=04shubham7&repo=04shubham7&theme=tokyonight&hide_border=true" alt="Profile Repo" />
-</div>
-
-### 📌 Featured Projects
-
-Coming soon! Check my repositories for exciting projects in:
-- 🌐 Full-stack web applications
-- 🤖 Automation tools
-- 📊 Data visualization dashboards
-- 🔐 Security utilities
-- 🎮 Fun side projects
-
 ---
 
 ## 🤝 Connect with Me
@@ -250,66 +201,13 @@ Coming soon! Check my repositories for exciting projects in:
 - 💬 **Knowledge Sharing:** Love discussing technology, architecture, and best practices
 - ☕ **Networking:** Just want to chat about tech? I'm all ears!
 
-### 📊 Response Time
-
-<div align="center">
-  
-| Platform | Response Time | Best For |
-|----------|--------------|----------|
-| 💼 LinkedIn | 24-48 hours | Professional opportunities |
-| 📧 Email | 48-72 hours | Detailed discussions |
-| 🐦 Twitter | 12-24 hours | Quick questions |
-| 💻 GitHub | Varies | Code-related queries |
-
-</div>
-
 ---
 
-## 📚 Latest Blog Posts & Articles
 
-<!-- BLOG-POST-LIST:START -->
-- 🚀 Building Scalable Microservices with Node.js
-- 🐳 Docker Best Practices for Production
-- ☁️ Deploying to Kubernetes: A Complete Guide
-- 🔐 Securing Your REST APIs
-- ⚡ Performance Optimization Tips for React Apps
-<!-- BLOG-POST-LIST:END -->
 
----
 
-## 🎓 Certifications & Learning
 
-<div align="center">
 
-![AWS](https://img.shields.io/badge/AWS_Certified-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker_Certified-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-</div>
-
-### 📖 Currently Learning
-
-- Advanced System Design & Architecture
-- Cloud Native Development with Kubernetes
-- Machine Learning & AI Fundamentals
-- Web3 & Blockchain Technologies
-- Rust Programming Language
-
----
-
-## 💖 Support My Work
-
-If you like my work and want to support me:
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/04shubham7)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/04shubham7)
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/04shubham7)
-
-</div>
-
----
 
 ## 🎉 Fun Facts About Me
 
@@ -318,9 +216,9 @@ const shubham = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
     languages: ["English", "Hindi"],
-    hobbies: ["Coding", "Reading Tech Blogs", "Open Source", "Chess"],
+    hobbies: ["Coding", "Reading Tech Blogs", "Open Source", "Valorant","Traveling"],
     funFact: "I can debug code faster with coffee ☕",
-    currentlyListeningTo: "Lo-fi beats while coding 🎵",
+    currentlyListeningTo: "Kaafizyada:Nanku 🎵",
     askMeAbout: [
         "Web Development",
         "Cloud Architecture", 
@@ -332,30 +230,6 @@ const shubham = {
     workingOn: "Building something awesome! 🚀"
 };
 ```
-
----
-
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   12 hrs 45 mins  ████████████░░░░░   48.2%
-TypeScript   8 hrs 20 mins   ████████░░░░░░░░░   31.5%
-Python       3 hrs 15 mins   ███░░░░░░░░░░░░░░   12.3%
-Docker       1 hr 30 mins    ██░░░░░░░░░░░░░░░    5.7%
-YAML         40 mins         █░░░░░░░░░░░░░░░░    2.5%
-```
-<!--END_SECTION:waka-->
-
----
-
-## 🌟 Star History
-
-<div align="center">
-  
-[![Star History Chart](https://api.star-history.com/svg?repos=04shubham7/04shubham7&type=Date)](https://star-history.com/#04shubham7/04shubham7&Date)
-
-</div>
 
 ---
 
