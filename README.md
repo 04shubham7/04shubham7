@@ -46,7 +46,7 @@ I'm a **dedicated software developer** with a passion for building innovative so
 - ⚡ **Fun Fact:** I believe in writing clean, maintainable code that makes a difference
 - 📫 **Reach Me:** Always open to interesting conversations about technology!
 
-### 🎯 2025 Goals
+### 🎯 2026 Goals
 
 - 🏆 Contribute to more open-source projects
 - 📚 Master cloud-native architectures and microservices
