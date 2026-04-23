@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5dea4919-ae10-4cee-a1e1-83215e59665b" alt="Pixel-art Japanese temple skyline viewed through traditional wooden frames at sunset" width="980" />
+  <img src="https://github.com/user-attachments/assets/5dea4919-ae10-4cee-a1e1-83215e59665b" alt="Profile banner with pixel-art temple design" width="980" />
 </p>
 
 <p align="center">
