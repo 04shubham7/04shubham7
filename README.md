@@ -25,7 +25,7 @@
 ## Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=04shubham7&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=04shubham7&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub trophies" />
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 ## GitHub Metrics
 
 <p align="center">
-  <img src="/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ---
