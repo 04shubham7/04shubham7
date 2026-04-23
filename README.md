@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Shubham Kumar 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Open-Source+Contributor;Building+useful+products+with+clean+code" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Full-stack+Developer;Open-Source+Contributor;Building+useful+products+with+clean+code" alt="Typing animation" />
 </p>
 
 <p align="center">
   <a href="https://github.com/04shubham7"><img src="https://komarev.com/ghpvc/?username=04shubham7&label=Profile%20views&color=0ea5e9&style=flat-square" alt="Profile views" /></a>
   <a href="https://github.com/04shubham7?tab=followers"><img src="https://img.shields.io/github/followers/04shubham7?label=Followers&style=flat-square" alt="Followers" /></a>
   <a href="https://github.com/04shubham7?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2F04shubham7&style=flat-square&color=2563eb" alt="Public repos" /></a>
-  <img src="https://img.shields.io/github/last-commit/04shubham7/04shubham7?label=Updated&style=flat-square" alt="Last updated" />
+  <img src="https://img.shields.io/github/last-commit/04shubham7/04shubham7?label=Last%20Commit&style=flat-square" alt="Last commit" />
 </p>
 
 ---
@@ -82,4 +82,4 @@
 
 ---
 
-<p align="center"><i>Auto-refreshed nightly via GitHub Actions (Metrics + Snake workflows).</i></p>
+<p align="center"><i>GitHub Metrics and Snake animation auto-refresh nightly via GitHub Actions workflows.</i></p>
