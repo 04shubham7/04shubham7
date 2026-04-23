@@ -38,7 +38,7 @@ hobbies:  ["Coding", "Open Source", "Valorant", "Traveling"]
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=04shubham7&theme=radical&no-frame=true&no-bg=true&margin-w=6&margin-h=8&row=3&column=6" alt="GitHub trophies" />
 </p>
-<p align="center"><sub>Expanded 3×6 trophy grid to showcase a wider set of achievements.</sub></p>
+<p align="center"><sub>Showcasing the complete achievement collection and milestone progress.</sub></p>
 
 <p align="center">
   <a href="https://holopin.io/@04shubham7">
