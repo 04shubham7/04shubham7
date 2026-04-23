@@ -84,4 +84,4 @@
 
 ---
 
-<p align="center"><i>GitHub Metrics and Snake animation auto-refresh nightly at 00:00 UTC via GitHub Actions workflows.</i></p>
+<p align="center"><i>GitHub Metrics and Snake animation refresh nightly at 00:00 UTC and on pushes via GitHub Actions workflows.</i></p>
