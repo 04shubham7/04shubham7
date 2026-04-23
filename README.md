@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5dea4919-ae10-4cee-a1e1-83215e59665b" alt="Aesthetic pixel landscape" width="980" />
+  <img src="https://github.com/user-attachments/assets/5dea4919-ae10-4cee-a1e1-83215e59665b" alt="Pixel-art Japanese temple skyline viewed through traditional wooden frames at sunset" width="980" />
 </p>
 
 <p align="center">
@@ -38,6 +38,7 @@ hobbies:  ["Coding", "Open Source", "Valorant", "Traveling"]
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=04shubham7&theme=radical&no-frame=true&no-bg=true&margin-w=6&margin-h=8&row=3&column=6" alt="GitHub trophies" />
 </p>
+<p align="center"><sub>Expanded 3×6 trophy grid to showcase a wider set of achievements.</sub></p>
 
 <p align="center">
   <a href="https://holopin.io/@04shubham7">
