@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/5dea4919-ae10-4cee-a1e1-83215e59665b" alt="Aesthetic pixel landscape" width="980" />
+</p>
+
+<p align="center">
   <a href="https://github.com/04shubham7"><img src="https://komarev.com/ghpvc/?username=04shubham7&label=Profile%20Views&color=7c3aed&style=flat-square&labelColor=0d1117" alt="Profile views" /></a>
   <a href="https://github.com/04shubham7?tab=followers"><img src="https://img.shields.io/github/followers/04shubham7?label=Followers&style=flat-square&color=818cf8&labelColor=0d1117&logo=github&logoColor=818cf8" alt="Followers" /></a>
   <a href="https://github.com/04shubham7?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?logo=github&logoColor=818cf8&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2F04shubham7&style=flat-square&color=818cf8&labelColor=0d1117" alt="Public repos" /></a>
@@ -32,13 +36,18 @@ hobbies:  ["Coding", "Open Source", "Valorant", "Traveling"]
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=04shubham7&theme=radical&no-frame=true&no-bg=true&margin-w=6&margin-h=6&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=04shubham7&theme=radical&no-frame=true&no-bg=true&margin-w=6&margin-h=8&row=3&column=6" alt="GitHub trophies" />
 </p>
 
 <p align="center">
   <a href="https://holopin.io/@04shubham7">
     <img src="https://holopin.me/04shubham7" alt="Holopin badges" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=04shubham7&theme=radical" alt="Achievement stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=04shubham7&theme=radical&utcOffset=5.5" alt="Productive time" />
 </p>
 
 ---
