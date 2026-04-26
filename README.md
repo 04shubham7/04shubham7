@@ -24,7 +24,7 @@
 ```yaml
 name:     Shubham Kumar
 location: India 🇮🇳
-role:     Full-stack Developer
+role:     Full-stack Developer , Software Developer Enthusiast
 focus:    Scalable apps · Cloud-native · DevOps · System Design
 stack:    JS · TS · Python · Go · React · Node.js · Docker · AWS
 open_to:  OSS collaboration · interesting engineering problems
