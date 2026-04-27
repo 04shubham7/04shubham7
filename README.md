@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2400&pause=1000&color=C9748A&background=00000000&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+applications;Cloud-native+%7C+DevOps+%7C+System+Design;Always+learning+%7C+Always+growing" alt="Typing animation" />
 </p>
 
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d55020f8-60e1-437e-8b8d-75e209db56fa" alt="Profile header banner showcasing a pixel-art temple skyline at sunset" width="980" />
 </p>
