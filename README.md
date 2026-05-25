@@ -7,7 +7,6 @@
 </p>
 
 
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d55020f8-60e1-437e-8b8d-75e209db56fa" alt="Profile header banner showcasing a pixel-art temple skyline at sunset" width="980" />
 </p>
