@@ -1,107 +1,113 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00f0ff,ff007f&height=200&section=header&text=Shubham%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20Cloud-Native%20%7C%20Cyberpunk%20Enthusiast&descAlignY=58&descSize=18&descColor=00f0ff&animation=fadeIn" alt="header" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f0d20,100:2d1525&height=200&section=header&text=Shubham%20Kumar&fontSize=48&fontColor=e8ddd5&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20Open-Source%20Contributor&descAlignY=58&descSize=18&descColor=c9748a&animation=fadeIn" alt="header" />
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+applications;Cloud-native+%7C+DevOps+%7C+System+Design;Always+learning+%7C+Always+growing" alt="Typing animation" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2400&pause=1000&color=C9748A&background=00000000&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+applications;Cloud-native+%7C+DevOps+%7C+System+Design;Always+learning+%7C+Always+growing" alt="Typing animation" />
+</p>
 
-<div align="center">
-  <a href="https://github.com/04shubham7"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00f0ff" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/04shubham07"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff007f" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/04shubham7"><img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=00f0ff" alt="Twitter" /></a>
-  <a href="mailto:shubham040711@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ffea00" alt="Email" /></a>
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d55020f8-60e1-437e-8b8d-75e209db56fa" alt="Profile header banner showcasing a pixel-art temple skyline at sunset" width="980" />
+</p>
 
-<br />
-
-<div align="center">
-  <a href="https://github.com/04shubham7"><img src="https://komarev.com/ghpvc/?username=04shubham7&label=Views&color=ff007f&style=flat-square&labelColor=0d1117" alt="Profile views" /></a>
-  <a href="https://github.com/04shubham7?tab=followers"><img src="https://img.shields.io/github/followers/04shubham7?label=Followers&style=flat-square&color=00f0ff&labelColor=0d1117" alt="Followers" /></a>
-  <a href="https://github.com/04shubham7?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2F04shubham7&style=flat-square&color=ffea00&labelColor=0d1117" alt="Public repos" /></a>
-  <img src="https://img.shields.io/github/last-commit/04shubham7/04shubham7?label=Last%20Commit&style=flat-square&color=ff007f&labelColor=0d1117" alt="Last commit" />
-</div>
+<p align="center">
+  <a href="https://github.com/04shubham7"><img src="https://komarev.com/ghpvc/?username=04shubham7&label=Profile%20Views&color=8b3a62&style=flat-square&labelColor=0d1117" alt="Profile views" /></a>
+  <a href="https://github.com/04shubham7?tab=followers"><img src="https://img.shields.io/github/followers/04shubham7?label=Followers&style=flat-square&color=c9748a&labelColor=0d1117&logo=github&logoColor=c9748a" alt="Followers" /></a>
+  <a href="https://github.com/04shubham7?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?logo=github&logoColor=c9748a&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2F04shubham7&style=flat-square&color=c9748a&labelColor=0d1117" alt="Public repos" /></a>
+  <img src="https://img.shields.io/github/last-commit/04shubham7/04shubham7?label=Last%20Commit&style=flat-square&color=d4885a&labelColor=0d1117&logo=github&logoColor=d4885a" alt="Last commit" />
+</p>
 
 ---
 
-### 🚀 > SYSTEM.LOG // IDENTIFICATION
+## 👨‍💻 About Me
 
 ```yaml
-User:          "Shubham Kumar"
-Location:      "India 🇮🇳"
-Role:          ["Full-stack Developer", "DevOps Engineer", "System Designer"]
-Core_Stack:    ["JS", "TS", "Python", "Go", "React", "Node.js", "Docker", "AWS"]
-Current_Focus: "Building scalable cloud-native applications"
-Looking_For:   "OSS Collaboration && Interesting Engineering Problems"
+name:     Shubham Kumar
+location: India 🇮🇳
+role:     Full-stack Developer , Software Developer Enthusiast
+focus:    Scalable apps · Cloud-native · DevOps · System Design
+stack:    JS · TS · Python · Go · React · Node.js · Docker · AWS
+open_to:  OSS collaboration · interesting engineering problems
+hobbies:  ["Coding", "Open Source", "Valorant", "Traveling"]
 ```
 
 ---
 
-### 🏆 > SYSTEM.ACHIEVEMENTS // TROPHIES
+## 🏆 Achievements
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=04shubham7&theme=radical&column=7&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+<p align="center"><sub>Showcasing the complete achievement collection and milestone progress.</sub></p>
+
+<p align="center">
+  <a href="https://holopin.io/@04shubham7">
+    <img src="https://holopin.me/04shubham7" alt="Holopin badges" />
   </a>
-</div>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=04shubham7&theme=dracula" alt="Achievement stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=04shubham7&theme=dracula&utcOffset=5.5" alt="Productive time" />
+</p>
 
 ---
 
-### 💻 > SYSTEM.METRICS // GITHUB_STATS
+## 📊 GitHub Metrics
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=04shubham7&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff007f&icon_color=00f0ff&text_color=e0e0e0" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=04shubham7&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff007f&text_color=e0e0e0&langs_count=8" alt="Top languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=04shubham7&hide_border=true&background=0d1117&stroke=ff007f&ring=00f0ff&fire=ffea00&currStreakNum=00f0ff&currStreakLabel=ff007f&sideNums=e0e0e0&sideLabels=e0e0e0&dates=e0e0e0" alt="GitHub streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=04shubham7&bg_color=0d1117&color=00f0ff&line=ff007f&point=ffea00&area=true&area_color=1c1026&hide_border=true" alt="Contribution graph" />
-</div>
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</p>
+<p align="center"><sub>Auto-generated by the Metrics GitHub Action workflow.</sub></p>
 
 ---
 
-### 🛠️ > SYSTEM.TOOLKIT // TECH_STACK
+## 📈 Stats
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=04shubham7&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=c9748a&icon_color=d4885a&text_color=e8ddd5&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=04shubham7&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=c9748a&text_color=e8ddd5&langs_count=8" alt="Top languages" />
+</p>
+
+---
+
+## 🔥 Contributions Calendar
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=04shubham7&theme=radical&hide_border=true&background=0d1117&stroke=8b3a62&ring=c9748a&fire=d4885a&currStreakNum=e8ddd5&sideNums=e8ddd5&currStreakLabel=c9748a&sideLabels=d4885a&dates=7a8fa6" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=04shubham7&bg_color=0d1117&color=c9748a&line=d4885a&point=8b3a62&area=true&area_color=2a1525&hide_border=true" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/04shubham7/04shubham7/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,go,cpp,react,nextjs,vue,nodejs,express,nestjs,fastapi,mongodb,postgres,mysql,docker,kubernetes,aws,git,github,linux,vscode&theme=dark" alt="Tech stack" />
-</div>
+</p>
 
 ---
 
-### 🐍 > SYSTEM.ACTIVITY // COMMITS
+## 🤝 Connect
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/04shubham7/04shubham7/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/04shubham7/04shubham7/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/04shubham7/04shubham7/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark">
-  </picture>
-</div>
-
----
-
-### 📊 > SYSTEM.REPORT // ADVANCED_METRICS
-
-<details>
-  <summary><b>Click to expand Advanced GitHub Metrics</b></summary>
-  
-  <br/>
-  <div align="center">
-    <img src="./github-metrics.svg" alt="GitHub Metrics" />
-  </div>
-  <p align="center"><sub>Auto-generated by the Metrics GitHub Action workflow.</sub></p>
-</details>
+<p align="center">
+  <a href="https://github.com/04shubham7"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e8ddd5" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/04shubham07"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=c9748a" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/04shubham7"><img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=7a8fa6" alt="Twitter" /></a>
+  <a href="mailto:shubham040711@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=d4885a" alt="Email" /></a>
+  <a href="https://dev.to/04shubham7"><img src="https://img.shields.io/badge/dev.to-0d1117?style=for-the-badge&logo=dev.to&logoColor=e8ddd5" alt="dev.to" /></a>
+  <a href="https://stackoverflow.com/users/04shubham7"><img src="https://img.shields.io/badge/Stack%20Overflow-0d1117?style=for-the-badge&logo=stack-overflow&logoColor=d4885a" alt="Stack Overflow" /></a>
+  <a href="https://discord.com/users/04shubham7"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=c9748a" alt="Discord" /></a>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff007f,00f0ff&height=120&section=footer" alt="footer" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1525,50:1f0d20,100:0d1117&height=120&section=footer" alt="footer" />
+</p>
+
+<p align="center"><sub>GitHub Metrics and Snake animation refresh nightly at 00:00 UTC and on pushes via GitHub Actions workflows.</sub></p>
