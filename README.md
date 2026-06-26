@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f0d20,100:2d1525&height=200&section=header&text=Shubham%20Kumar&fontSize=48&fontColor=e8ddd5&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20Open-Source%20Contributor&descAlignY=58&descSize=18&descColor=c9748a&animation=fadeIn" alt="header" />
 </p>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2400&pause=1000&color=C9748A&background=00000000&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+applications;Cloud-native+%7C+DevOps+%7C+System+Design;Always+learning+%7C+Always+growing" alt="Typing animation" />
 </p>
